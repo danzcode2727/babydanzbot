@@ -16,6 +16,9 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}pale*
 ┃│➸ *${prefix}abangjago*
 ┃│➸ *${prefix}kangcopet*
+┃│➸ *${prefix}tariksis*
+┃│➸ *${prefix}jirolupat*
+┃│➸ *${prefix}bomaye*
 ┃│➸ *${prefix}wib*
 ┃│➸ *${prefix}shopee*
 ┃│➸ *${prefix}pagi*
