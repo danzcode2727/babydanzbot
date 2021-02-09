@@ -14,6 +14,19 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃╭───────────────────
 ┃│➸ *${prefix}iri*
 ┃│➸ *${prefix}pale*
+┃│➸ *${prefix}abangjago*
+┃│➸ *${prefix}kangcopet*
+┃│➸ *${prefix}wib*
+┃│➸ *${prefix}shopee*
+┃│➸ *${prefix}pagi*
+┃│➸ *${prefix}rapbitch*
+┃│➸ *${prefix}pota*
+┃│➸ *${prefix}potaimut*
+┃│➸ *${prefix}haiphuthon*
+┃│➸ *${prefix}yamete*
+┃│➸ *${prefix}avocados*
+┃│➸ *${prefix}despacifyp*
+┃│➸ *${prefix}sapeteam*
 ┃│➸ *${prefix}sound*
 ┃│➸ *${prefix}sound1*
 ┃│➸ *${prefix}sound2*
